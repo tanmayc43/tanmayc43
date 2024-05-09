@@ -1,6 +1,7 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> Hey there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h4>
 
-I'm [Tanmay Chaturvedi](https://linkedin.com/in/tanmay43/), a Computer Science freshman at IIIT, Guwahati eager to explore the vast realms of technology and coding. 💻 Currently diving deep into the exciting world of algorithms, data structures, and software development. 🚀 Constantly seeking new opportunities to learn and grow in this ever-evolving field.
+I'm [Tanmay Chaturvedi](https://linkedin.com/in/tanmay43/), a Computer Science freshman at IIIT, Guwahati eager to explore the vast realms of technology and coding. <br>
+💻 Currently diving deep into the exciting world of algorithms, data structures, and software development. 🚀 Constantly seeking new opportunities to learn and grow in this ever-evolving field.
 
 
 **Languages and Tools:**
@@ -29,11 +30,11 @@ I'm [Tanmay Chaturvedi](https://linkedin.com/in/tanmay43/), a Computer Science f
 <!-- <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   --> -->
+    -->
 
   <p align="center">
-    ⭐️ From [Tanmay Chaturvedi](https://github.com/user/tanmayc43/)
-    <br />
+    ⭐️ From [Tanmay Chaturvedi](https://linkedin.com/in/tanmay43/),
+    <br>
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
 </p>
