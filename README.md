@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h4>
 
-I'm [Tanmay Chaturvedi](https://linkedin.com/in/tanmay43/), a Computer Science sophomoreat IIIT, Guwahati eager to explore the vast realms of technology and coding. <br>
+I'm [Tanmay Chaturvedi](https://linkedin.com/in/tanmay43/), a Computer Science sophomore at IIIT, Guwahati eager to explore the vast realms of technology and coding. <br>
 💻 Currently diving deep into the exciting world of algorithms, data structures, and software development. 🚀 Constantly seeking new opportunities to learn and grow in this ever-evolving field.
 
 
